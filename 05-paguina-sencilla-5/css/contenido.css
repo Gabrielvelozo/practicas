@@ -1,0 +1,27 @@
+#cabecera {
+  margin-left: 200px;
+}
+h1 {
+  color: white;
+  font-size: 52px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 150px 0 0;
+}
+p {
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  width: 550px;
+  margin: 40px 0;
+}
+.btn-cabecera {
+  background: white;
+  color: #f807d0;
+}
+img {
+  width: 450px;
+  position: relative;
+  bottom: 170px;
+  right: 350px;
+}

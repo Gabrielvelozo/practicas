@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#menu {
+  background: #293648;
+  height: 60px;
+}
+#logo {
+  padding-top: 14px;
+  padding-left: 150px;
+}
+ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-right: 350px;
+  float: right;
+}
+
+li {
+  display: inline-block;
+}
+a {
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 60px;
+  padding: 0 16px;
+}
+a:hover {
+  color: #4aa1a0;
+}
+.verde {
+  background: #1bbc9d;
+  height: 550px;
+}
+.phone {
+  margin: 0;
+  position: relative;
+  padding-left: 1000px;
+}
+h1 {
+  margin: 0;
+  padding-left: 150px;
+  font-size: 76px;
+  text-transform: capitalize;
+  position: relative;
+  bottom: 450px;
+  color: white;
+}
+#descripcion {
+  margin: 0;
+  padding-left: 150px;
+  font-size: 20px;
+  position: relative;
+  bottom: 400px;
+  width: 600px;
+  font-weight: 500;
+  color: white;
+}
+.centrar {
+  display: inline;
+  margin-left: 150px;
+  position: relative;
+  bottom: 380px;
+}
+.caja {
+  display: inline-block;
+  width: 120px;
+  background: ;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+
+.cubos {
+  display: inline;
+  margin-left: 150px;
+  margin-right: 150px;
+  position: relative;
+  top: 100px;
+}
+.contenedor {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin-left: 200px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.texto {
+  position: relative;
+  top: 100px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #949494;
+  font-weight: 700;
+}
